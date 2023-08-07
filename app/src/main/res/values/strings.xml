@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">One Pica</string>
+    <string name="expansion_set_1_name">Romance Dawn</string>
+    <string name="expansion_set_1_code">[OP-01]</string>
+    <string name="expansion_set_1_code_name">[OP-01] Romance Dawn</string>
+    <string name="expansion_set_2_name">Paramount War</string>
+    <string name="expansion_set_2_code">[OP-02]</string>
+    <string name="expansion_set_2_code_name">[OP-02] Paramount War</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_background">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="one_piece_red">#c8472c</color>
+    <color name="OnePieceBrown">#412a1e</color>
+    <color name="OnePieceYellow">#f8de3c</color>
+    <color name="OnePieceWhite">#fefefe</color>
+    <color name="OnePieceSoftBlue">#58acf4</color>
+    <color name="OnePieceMediumBlue">#105edd</color>
+    <color name="OnePieceHardBlue">#0b3075</color>
+</resources>
