@@ -8,10 +8,10 @@ A aplicação tem como objetivo auxiliar colecionadores a manterem suas coleçõ
 
 Features já implementadas:
 
-[] Exibição das coleções
-[] Exibição dos itens das coleções
-[] Selecionar e armazenar se já possui ou não a Stores
-[] Exibir progresso (%) da coleção
-[] Persistir e Consultar cartas no Firebase
-[] Persistir e Consultar status do usuário no Firebase
-[] Publicar na App Store
+[ ] Exibição das coleções  
+[ ] Exibição dos itens das coleções  
+[ ] Selecionar e armazenar se já possui ou não a carta  
+[ ] Exibir progresso (%) da coleção  
+[ ] Persistir e Consultar cartas no Firebase  
+[ ] Persistir e Consultar status do usuário no Firebase  
+[ ] Publicar na App Store  
